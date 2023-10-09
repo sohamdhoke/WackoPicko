@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'wackopicko'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_534EE4611C0E41609996CECB01F99B84 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10FEECACA34841AA857DFD5D7A8646DA }}
           package: .
